@@ -1,6 +1,6 @@
 const BASE_URL = 'https://api.os.uk/search/links/v1/';
 
-const MISSING_ID_MSG = 'To run this query, please enter an ID.';
+const MISSING_ID_MSG = '9NpVIZEW1vnWPKUwSdJxLHDaOdS0I1GY.';
 
 window.displayDropdownMenu = function(id) {
     var dropdownMenu = document.getElementById(id);
